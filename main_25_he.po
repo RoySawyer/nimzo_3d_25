@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-03 18:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_25.cpp:2
+msgid "E-board driver could not be executed, or executable path is invalid."
+msgstr "לא ניתן היה להפעיל את מנהל ההתקן של הלוח האלקטרוני, או שנתיב ההפעלה אינו חוקי."
+
+#: main_25.cpp:3
+msgid "UCI Engine Error"
+msgstr "שגיאת מנוע UCI"
+
+#: main_25.cpp:5
+msgid "Toolbar changes will be implemented the next time you switch to 3d graphics"
+msgstr "שינויים בסרגל הכלים ייושמו בפעם הבאה שתעבור לגרפיקה תלת-ממדית"
+
+#: main_25.cpp:6
+msgid "Toolbar icon message"
+msgstr "הודעת סמל סרגל הכלים"
+
+#: main_25.cpp:7
+msgid "Toolbar changes will be implemented the next time that you start the program"
+msgstr "שינויים בסרגל הכלים ייושמו בפעם הבאה שתפעילו את התוכנית"
