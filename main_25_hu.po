@@ -1,0 +1,38 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-10-03 18:03+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: main_25.cpp:2
+msgid "E-board driver could not be executed, or executable path is invalid."
+msgstr "Az E-kártya illesztőprogramja nem futtatható, vagy a futtatható fájl elérési útja érvénytelen."
+
+#: main_25.cpp:3
+msgid "UCI Engine Error"
+msgstr "UCI motorhiba"
+
+#: main_25.cpp:5
+msgid "Toolbar changes will be implemented the next time you switch to 3d graphics"
+msgstr "Az eszköztár módosításai a következő 3D grafikára való váltáskor lépnek életbe."
+
+#: main_25.cpp:6
+msgid "Toolbar icon message"
+msgstr "Eszköztár ikon üzenet"
+
+#: main_25.cpp:7
+msgid "Toolbar changes will be implemented the next time that you start the program"
+msgstr "Az eszköztár módosításai a program következő indításakor lépnek életbe."
